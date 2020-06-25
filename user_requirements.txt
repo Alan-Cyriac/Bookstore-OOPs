@@ -1,0 +1,14 @@
+"""
+A program that stores this book information:
+Title, Author
+year, ISBN
+
+user can:
+
+View all records
+Search an entry
+Add entry
+Update Entry
+Delete
+close
+"""
